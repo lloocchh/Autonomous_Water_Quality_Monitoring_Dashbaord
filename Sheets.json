@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "waterprobingdrone",
+  "private_key_id": "8ea33860189361ec37c9643e9ca1d14eaa9aa638",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCn1Sx1UMdxL5N3\n06Dco1ez92Vbpcn1v8rq6jQ+tSw1HN3IPh6huZ5Wk5HkEpSUnnCc4JomxUJAi7AN\nGx4en/rqFq8f/coCC9QW8ZQ4ImF4JokNmVK5u5eBvZrkmLM9M0dWYQImPOKzHqA+\n0mC8g59/yoD8VUbX9L41I23RGDw9TC4+XjHHkZJEK9eLcUUoSa1oisecy4m0t39o\npRP/MRQ3PdIaC0Q7um/NLsoSZojmajtB23yiNcoFpY6//N9wQkf/lQ5pwhMlk/tL\neTwHUopPtLnPgYLATlS8s3xG/tnEgHCohCJCeh6FRuFVUiJFAdMqAsiuxayQVlJT\nxOVHKO0lAgMBAAECggEADGhREhc3t2FqCIjHsqgMusxGXQEjrhxQtw87b4tbSk3p\nA328K/6Z+xKLzY2mGFqiPqbIHqeknzr0d/OSRXdUSGwG5FmRzpbrRgr0BzZbeFN4\n/F1iZUK+D6RhyBaV4adh1bv0Obl0lQNlm19YMXeVmg/xezYet6ZrTWhiHPwqr+lM\nNZZH2FEfjAnFHYm9wEniYB4O1jkDZjHRVeBMw3pXz4GhaydFC0F7RUIgPFjpt2jo\nZrAZ52A8gd85Drd/Q4YCGZ6yU9X3UH3ByxSjnEndN+9FQnnuDOTdyEOBwNiEB0gs\nYrEvcsfbcYkNjOPA9dGZ4ZDKSk6bp+sS0vN0YhKtfQKBgQDUf1w1umY+hCwHYmtx\nCd3PYnBXhJja8kj/2M8IhdTBQ44Hb7vrToNKnkGCwrOkA8Oa3jn11kt8NHp019ce\nern8qPLX9l536wFfoucU58Nj8rxJK6T+luGFZpOcUa0kO+9MXooOmnmvlxfacCFq\ncYAvD1TGwGrdtOEEGdgkWClTVwKBgQDKMQGXhaQ6RghP2nXUby1TKmFLx65KaMEO\nWKPDGQgIPzjAbRZTI7dodbV0nw24HVImCayXXMohvpVqOUb9Z5hgfkXazTK5KezJ\nlVCmae4SqkynSbW0khn6INk6xKQknA2yzNOM69Rax0TKqbtEZdaDwjGHZQjAqztA\nEHww7BbR4wKBgQC6nQaLoKC98jEAYyxb3wBOafKiyS27yd7V4L8givdmqj8GxNdR\nNGgUlZqOjRJZzXxwewyHmqQ79ZI9Hngqqji/bFen1RLtWRKhvFwXfdmX4sn7sDp7\n4mE3V/f15byZ/5CNjtDLNln7HEO0b5jI89hQe7RFvyGahoi9ozyv3kScjQKBgHip\nzGBnwf2A49776cvQWYVDSnNWBF6lq2jrXzfETXXWfQDhWSxeqUruzE5/yUkyPl8y\n8MwX9Q00Vqjg68u4skgLs5aDVR0JtyUKNepKV2jONxayt3y+oEAUsG8RAUBT3Rzy\nfeGgr8dJGnWz221TNTTGhJZfplyNE7wE2oi7rFavAoGBAJPNTEMgSZk08+uDDsto\n5BeEv7O4thZGVoBIHF1ktdaBGqJCQNCo1SZaEi5NWvKuRnwJD1FZ6Pyea+cGu17O\ndg4zboYUPQWDvuPFSStP3bu9L5JNY0UJIeocMh7/b4fedO66kxQpVKCXhaIkHsj+\nNEs5Mzyx1pbreiJnmoVYsiEV\n-----END PRIVATE KEY-----\n",
+  "client_email": "companioncomputerdataupload@waterprobingdrone.iam.gserviceaccount.com",
+  "client_id": "100028248480740973297",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/companioncomputerdataupload%40waterprobingdrone.iam.gserviceaccount.com"
+}
